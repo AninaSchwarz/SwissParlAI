@@ -1,0 +1,13 @@
+pandas
+requests
+gensim
+pyldavis
+nltk
+bertopic
+scikit-learn
+joblib
+tqdm
+matplotlib
+seaborn
+openai
+pandas
