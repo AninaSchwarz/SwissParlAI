@@ -84,11 +84,6 @@ The project evaluates classifier performance for four task families.
 | Justificatory logics    | Civic, market, industrial, domestic, and related justification types            | 0.70–0.75 | 0.39–0.50 |
 | Governance arrangements | Oversight, standards, legal protection, transparency, and related arrangements  |       TBD |       TBD |
 
-Pilot inter-annotator agreement for AI relevance, based on 50 segments:
-
-| Measure   | Value |
-|-----------|------:|
-| Cohen's κ | 0.874 |
 
 ---
 
